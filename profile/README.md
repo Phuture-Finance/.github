@@ -1,4 +1,11 @@
-<h1 align="center"> Phuture Finance </h1>
+<div align="center"> 
+
+# Phuture Finance
+
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=loading&label=Phuture.finance&style=for-the-badge&up_color=3e1fff&up_message=Online&url=https%3A%2F%2Fphuture.finance)
+![Twitter Follow](https://img.shields.io/twitter/follow/phuture_finance?color=%233e1fff&label=Twitter&style=for-the-badge)
+
+</div>
 
 <!--
 **Here are some ideas to get you started:**
